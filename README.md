@@ -34,3 +34,6 @@ Example Call:
 
         quote_of_the_day = data['thought']["quote"]
         socket.send_string(quote_of_the_day)
+
+        ![image](https://github.com/user-attachments/assets/9716057b-0cb8-458a-afeb-61af30e1af70)
+
